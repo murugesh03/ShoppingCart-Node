@@ -1,0 +1,16 @@
+[
+  {
+    "id": "12345",
+    "title": "The new book",
+    "imageUrl": "https://www.hereflower.com/pichub/uploads/thumbs/Product/100%20Sweetheart%20roses%20hfrr505.jpg",
+    "description": "Awesome flower",
+    "price": "100.00"
+  },
+  {
+    "title": "super car",
+    "imageUrl": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5d35eacaf1176b0008974b54%2F0x0.jpg%3FcropX1%3D790%26cropX2%3D5350%26cropY1%3D784%26cropY2%3D3349",
+    "description": "A super car",
+    "price": "50.00",
+    "id": "1233333"
+  }
+]
